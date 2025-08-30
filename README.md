@@ -41,10 +41,18 @@
 
 ### 
 
-<p align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/onion0622/onion0622/output/pacman-contribution-graph.svg" width="500">
-</p>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onion0622/onion0622/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onion0622/onion0622/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/onion0622/onion0622/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ###
+
+
+
 
 
