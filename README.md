@@ -51,7 +51,7 @@
 
 ###
 
-# Generación de Animación Pacman
+## Generación de Animación Pacman
 
 Este repositorio está configurado para generar una animación Pacman de las contribuciones de GitHub utilizando GitHub Actions.
 
@@ -94,4 +94,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
 
