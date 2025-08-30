@@ -7,13 +7,7 @@
   <div>
     <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript logo" />
     <img width="15" />
-    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo" />
-    <img width="15" />
-    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js logo" />
-    <img width="15" />
     <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" />
-    <img width="15" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo" />
     <img width="15" />
   </div>
   <br />
@@ -36,7 +30,6 @@
   <h3>🔥 GitHub Stats:</h3>
   <img src="https://streak-stats.demolab.com?user=onion0622&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub streak" />
   <img width="15" />
-  <img src="https://github-profile-trophy.vercel.app?username=onion0622&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="GitHub trophies" />
 </div>
 
 ### 
