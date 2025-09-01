@@ -15,13 +15,6 @@
 </div>
 
 
-
-<div align="center">
-  <h3> GitHub Stats:</h3>
-  <img src="https://streak-stats.demolab.com?user=onion0622&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub streak" />
-  <img width="15" />
-</div>
-
 ### 
 
 ###
