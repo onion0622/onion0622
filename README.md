@@ -7,15 +7,9 @@
   <div>
     <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript logo" />
     <img width="15" />
-  </div>
-  <br />
-  <div>
-    <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js logo" />
-    <img width="15" />
-  </div>
-  <br />
-  <div>
     <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python logo" />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js logo" />
     <img width="15" />
   </div>
 </div>
